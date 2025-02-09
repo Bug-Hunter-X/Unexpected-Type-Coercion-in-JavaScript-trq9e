@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript pitfall: unexpected type coercion.  The `foo` function shows how adding a number and a string results in string concatenation. The `bar` function provides a solution using `parseInt` to ensure numerical addition.
